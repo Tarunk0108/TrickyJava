@@ -1,6 +1,6 @@
 package com.tarun.java.tricky;
 
-
+//Programme to know whether a string is cylindrical or not.
 public class CylindricalString {
 
 	private static boolean checkCylindrical(String s1, String s2) {
