@@ -1,6 +1,7 @@
 package com.tarun.java.tricky;
 
 //Programme to know whether a string is cylindrical or not.
+//If the same string is repeated in itself
 public class CylindricalString {
 
 	private static boolean checkCylindrical(String s1, String s2) {
